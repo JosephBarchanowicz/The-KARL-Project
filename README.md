@@ -1,6 +1,6 @@
 # K.A.R.L. is my sandbox for exploring robotics and autonomy.
 
-![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)
+![ROS2 - Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue)
 ![Python](https://img.shields.io/badge/Python-3.10-green?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi-Pico-red?logo=raspberrypi)
