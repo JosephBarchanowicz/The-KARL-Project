@@ -48,7 +48,7 @@ The goal of this project is to build a **field-ready rover platform** for experi
 ## Software
 
 - **MicroPython** drivers for motor control and LEDs  
-- **ROS2 Humble** nodes for high-level control, simulation, and visualization  
+- **ROS2 JAZZY** nodes for high-level control, simulation, and visualization  
 - **Python / C++** code for ROS2 interfaces  
 - Test scripts for SPI, I²C, and UART comms integration  
 
